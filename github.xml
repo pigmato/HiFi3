@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="6aa774a6-b188-4263-b5e5-22fc432d3eb5" name="pigmato">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
